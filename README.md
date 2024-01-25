@@ -12,6 +12,7 @@ This project demonstrates the development of a chat application leveraging React
 
 ## Technologies Used
 
-- **Spring Boot:** Backend framework for building Java-based applications.
-- **chatengine.io:** Third-party API for chat functionality.
+- **React**
+- **Spring Boot:** 
+- **chatengine.io:** 
 
